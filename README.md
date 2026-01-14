@@ -1,0 +1,3 @@
+- ## Butterfly Population Dynamics
+- This repository documents a collaborative final project for the Math Modeling Course at SDSU. The project focuses on modeling the population dynamics of monarch butterflies in North America during the reproductive stages and investigates the shift in the dynamics under the effect of global warming
+- The finalized report can be found [HERE](https://github.com/Lauerita/Butterfly-Population-Dynamics/blob/main/Modeling%20Butterfly.pdf)
